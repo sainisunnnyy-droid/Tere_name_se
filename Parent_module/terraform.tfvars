@@ -6,7 +6,7 @@ rgva = {
   }
 
   rg2 = {
-    name       = "rg_lebelup"
+    name       = "rg_levelup"
     location   = "westus"
     managed_by = "wwe"
   }

@@ -6,7 +6,7 @@ rgwa = {
   }
 
   rg2 ={
-    name       = "rg_down"
+    name       = "rg_downfall"
     location   = "westus"
     managed_by = "wwe"
   }
